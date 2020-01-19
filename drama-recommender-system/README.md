@@ -7,5 +7,8 @@ There is definitely a smarter system, just like how YouTube recommends videos to
 1. Web scrape for drama data
 2. Combine data
 3. Exploratory data analysis - Data visalization
-4. Recommender systems using machine learning - Scikit-learn
-5. Recommender systems using deep learning - fast.ai
+4. Recommender systems using machine learning 
+   - Simple recommender system
+   - Content-based recommender system - similarity matrix using scikit-learn
+   - Collaborative filtering recommender system - matrix factorization & k-Nearest Neighbors of scikit-learn
+5. Recommender systems using deep learning - collab learner of fast.ai
