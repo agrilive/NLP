@@ -1,11 +1,12 @@
-# Natural Language Processing
-A repository for my NLP projects. Being a hot field in data science right now, there are many new developments in the NLP field. To learn about these new developments, I have adapted people's codes with other datasets, as well as started my own projects. 
+# Natural Language Processing with Dramas
+Since I liked watching dramas and often read reviews / blogs for the latest trending drama, I thought it would be interesting to do an NLP project related to it. I have since adapted people's codes and applied them in two projects:
 
 - Drama reviews sentiment analysis (Nov-Dec 2019)
   - Skills picked up include:
     - Web scraping (data collection)
     - Exploratory data analysis (data preprocessing + data visualisation)
-    - Sentiment analysis
+    - Sentiment analysis using sklearn
+
 - Drama recommender system (Jan 2020)
   - Skills picked up include:
     - Simple, content-based & collaborative filtering recommender systems using sckit-learn
